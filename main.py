@@ -79,7 +79,6 @@ def choice_char_class() -> str:
                                'para seleccionar cualquier otra clase').lower()
     return char_class
 
-
 def main():
     print('¡Saludos, aventurero!')
     print('Antes de comenzar a jugar...')
